@@ -1,2 +1,2 @@
 flask
-rpi.gpio
+opencv-contrib-python
